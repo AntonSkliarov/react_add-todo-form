@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,cACF,CAMA,kBAHE,wBAOF,CAJA,OACE,SAAU,CACV,gBAEF","file":"main.1a603415.chunk.css","sourcesContent":[".App {\n  margin: 0 200px;\n}\n\n.app-title {\n  text-transform: uppercase;\n}\n\n.error {\n  color: red;\n  line-height: 38px;\n  text-transform: uppercase;\n}\n"]}
